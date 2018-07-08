@@ -1,0 +1,10 @@
+D:\Visual programming\Database with Access\Database with Access\bin\Debug\Database with Access.exe.config
+D:\Visual programming\Database with Access\Database with Access\bin\Debug\Database with Access.exe
+D:\Visual programming\Database with Access\Database with Access\bin\Debug\Database with Access.pdb
+D:\Visual programming\Database with Access\Database with Access\obj\Debug\Database with Access.csprojResolveAssemblyReference.cache
+D:\Visual programming\Database with Access\Database with Access\obj\Debug\Database_with_Access.Form1.resources
+D:\Visual programming\Database with Access\Database with Access\obj\Debug\Database_with_Access.Properties.Resources.resources
+D:\Visual programming\Database with Access\Database with Access\obj\Debug\Database with Access.csproj.GenerateResource.cache
+D:\Visual programming\Database with Access\Database with Access\obj\Debug\Database with Access.csproj.CoreCompileInputs.cache
+D:\Visual programming\Database with Access\Database with Access\obj\Debug\Database with Access.exe
+D:\Visual programming\Database with Access\Database with Access\obj\Debug\Database with Access.pdb
